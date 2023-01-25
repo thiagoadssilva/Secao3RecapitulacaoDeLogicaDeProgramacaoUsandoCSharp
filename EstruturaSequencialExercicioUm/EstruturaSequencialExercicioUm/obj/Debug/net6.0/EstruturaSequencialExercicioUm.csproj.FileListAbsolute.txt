@@ -1,0 +1,15 @@
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.csproj.AssemblyReference.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.AssemblyInfoInputs.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.AssemblyInfo.cs
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\bin\Debug\net6.0\EstruturaSequencialExercicioUm.exe
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\bin\Debug\net6.0\EstruturaSequencialExercicioUm.deps.json
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\bin\Debug\net6.0\EstruturaSequencialExercicioUm.runtimeconfig.json
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\bin\Debug\net6.0\EstruturaSequencialExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\bin\Debug\net6.0\EstruturaSequencialExercicioUm.pdb
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\refint\EstruturaSequencialExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.pdb
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\EstruturaSequencialExercicioUm.genruntimeconfig.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaSequencialExercicioUm\EstruturaSequencialExercicioUm\obj\Debug\net6.0\ref\EstruturaSequencialExercicioUm.dll
