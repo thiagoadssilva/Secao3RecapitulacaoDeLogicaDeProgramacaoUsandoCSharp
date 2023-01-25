@@ -1,1 +1,1 @@
-# Secao3RecapitulacaoDeLogicaDeProgramacaoUsandoCSharp
+# Exercicio para treinamento em lógica usando c#
