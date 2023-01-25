@@ -1,0 +1,15 @@
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\bin\Debug\net6.0\EstruturaCondicionalExercicioUm.exe
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\bin\Debug\net6.0\EstruturaCondicionalExercicioUm.deps.json
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\bin\Debug\net6.0\EstruturaCondicionalExercicioUm.runtimeconfig.json
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\bin\Debug\net6.0\EstruturaCondicionalExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\bin\Debug\net6.0\EstruturaCondicionalExercicioUm.pdb
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.csproj.AssemblyReference.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.AssemblyInfoInputs.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.AssemblyInfo.cs
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\refint\EstruturaCondicionalExercicioUm.dll
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.pdb
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\EstruturaCondicionalExercicioUm.genruntimeconfig.cache
+C:\Users\CMTech\Documents\Thiago\ProjetosCS\EstruturaCondicionalExercicioUm\EstruturaCondicionalExercicioUm\obj\Debug\net6.0\ref\EstruturaCondicionalExercicioUm.dll
